@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960037594559",
+    "firebase_url": "https://cosmopent-4c2ff.firebaseio.com",
+    "project_id": "cosmopent-4c2ff",
+    "storage_bucket": "cosmopent-4c2ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960037594559:android:4006e4ff6fe752ad4bed0a",
+        "android_client_info": {
+          "package_name": "com.ssrprojects.cosmopent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960037594559-cjdf6knre1p5sd68ot8vqs06rk9hqu5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssrprojects.cosmopent",
+            "certificate_hash": "92a2dfe6f42fb82f83ebe5f139772525c3fb2376"
+          }
+        },
+        {
+          "client_id": "960037594559-cvit02mj5akn1omqm3nu4ashjuaflsl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTjtmc-kV2_Ib-LYKmMe8Ae3OzI7zCvNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960037594559-cvit02mj5akn1omqm3nu4ashjuaflsl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
